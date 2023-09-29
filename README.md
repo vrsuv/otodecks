@@ -1,1 +1,2 @@
-# otodecks
+# Otodecks
+A C++ DJ application
